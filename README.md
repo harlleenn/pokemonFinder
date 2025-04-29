@@ -1,7 +1,7 @@
 # Pokemon Finder
 
 A React-based web app that allows users to search and filter Pokémon by name and type. It uses the PokeAPI to fetch data and display Pokémon cards dynamically.
-## Live Demo pokemonfinderr.netlify.app
+## Live Demo https://pokemonfinderr.netlify.app/
 ## Features:
 - Search Pokémon by name
 - Filter Pokémon by type (e.g., Fire, Water, Grass, Electric)
